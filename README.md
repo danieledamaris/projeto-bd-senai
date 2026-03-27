@@ -1,6 +1,6 @@
 # projeto-bd-senai
 Projeto Final do Curso Banco de Dados para Data Science - SENAI Guarulhos - 25/03/2026
-# 🌾 Análise de Vendas Agrícolas da Fazenda Bela Vista (BD Fazenda)
+# 🌾 Análise de Vendas Agrícolas (BD Fazenda)
 
 Este repositório contém o projeto final desenvolvido para o curso presencial de Banco de Dados para Data Science realizado no SENAI Guarulhos. 
 O objetivo do projeto foi construir um pipeline de dados completo para analisar a produção e as vendas de três produtos agrícolas de uma fazenda.
