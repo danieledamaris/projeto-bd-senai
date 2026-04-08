@@ -19,10 +19,5 @@ Extrair dados de produção e comercialização do banco de dados `BD Fazenda`, 
 * `dashboard_fazenda.pbix`: Arquivo do Power BI com o painel final.
 * `print_dashboard.png`: Imagem do dashboard finalizado.
 
-## 🚀 Principais Insights
-Através do Dashboard criado no Power BI, foi possível observar que:
-* **[Escreva aqui um insight do seu projeto. Ex: O Milho teve o maior volume de produção, mas a Soja liderou o faturamento bruto no trimestre.]**
-* **[Escreva um segundo insight. Ex: A região X foi o destino com o maior número de vendas no período analisado.]**
-
 ---
 *Projeto desenvolvido sob a orientação do professor Gustavo Mota - SENAI Guarulhos.*
